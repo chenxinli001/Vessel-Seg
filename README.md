@@ -2,6 +2,8 @@
 
 Pytorch implementation 
 
+## Train 
+* python `main.py`
 
 
 
