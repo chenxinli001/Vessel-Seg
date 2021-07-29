@@ -3,7 +3,7 @@
 Pytorch implementation 
 
 ## Paper
-Hierarchical-Deep-Network-with-Uncertainty-aware-Semi-supervised-Learning-for-Vessel-Segmentation.[[arXiv]](https://arxiv.org/abs/2105.14732)
+Hierarchical-Deep-Network-with-Uncertainty-aware-Semi-supervised-Learning-for-Vessel-Segmentation. [[arXiv]](https://arxiv.org/abs/2105.14732)
 
 
 ## Installation
