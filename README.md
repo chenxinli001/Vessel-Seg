@@ -27,7 +27,7 @@
 | Lebre et al. |97.0| 97.0|98.0|
 | Ours|97.9| 98.9|99.7|
 
-See more details in the paper~
+See more details in the paper
 
 
 
