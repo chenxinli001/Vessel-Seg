@@ -3,15 +3,18 @@
 
 ## Requirements
 
-* Python == 3.7.4
-* Pytorch == 1.1.0
-* Torchvision ==0.3.0
-* CUDA 8.0
+- Python == 3.7.4
+- Pytorch == 1.1.0
+- Torchvision ==0.3.0
+- CUDA 8.0
 
 ## Datasets
-* Retinal vessel segmentation
-** **AV-DRIVE** ([data link])(https://drive.grand-challenge.org/) to prepare the dataset.
-* **Clipart/WaterColor/Comic**: Please follow the [instruction](https://github.com/naoto0804/cross-domain-detection/tree/master/datasets) to prepare dataset.
+- Retinal vessel segmentation
+  --**AV-DRIVE** ([data link])(https://drive.grand-challenge.org/)
+  --**AV-DRIVE** ([data link])(https://drive.grand-challenge.org/)
+  --**AV-DRIVE** ([data link])(https://drive.grand-challenge.org/)
+- Liver vessel segmentation
+  --**IRCAD** ([data link])(https://drive.grand-challenge.org/)
 
 ## Train 
 * python `main.py`
