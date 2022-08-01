@@ -8,6 +8,11 @@
 * Torchvision ==0.3.0
 * CUDA 8.0
 
+## Datasets
+* Retinal vessel segmentation
+** **AV-DRIVE** ([data link])(https://drive.grand-challenge.org/) to prepare the dataset.
+* **Clipart/WaterColor/Comic**: Please follow the [instruction](https://github.com/naoto0804/cross-domain-detection/tree/master/datasets) to prepare dataset.
+
 ## Train 
 * python `main.py`
 
