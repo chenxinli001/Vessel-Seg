@@ -1,4 +1,4 @@
-## Hierarchical Deep Network with Uncertainty aware Semi-supervised Learning for VesseL Segmentation ([Link](https://link.springer.com/article/10.1007/s00521-021-06578-3))
+## Hierarchical Deep Network with Uncertainty aware Semi-supervised Learning for Vesse Segmentation ([Link](https://link.springer.com/article/10.1007/s00521-021-06578-3))
 
 
 ## Requirements
