@@ -36,8 +36,6 @@ A Pytorch Implementation of ''Hierarchical Deep Network with Uncertainty aware S
 | Lebre et al. |97.0| 97.0|98.0|
 | Ours|97.9| 98.9|99.7|
 
-Please see more details in the paper
-
 ## Citation
 
 If you find this repository useful, please cite our paper:
