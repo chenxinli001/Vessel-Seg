@@ -10,11 +10,11 @@
 
 ## Datasets
 - Retinal vessel segmentation
-  - **AV-DRIVE**: [link](https://drive.grand-challenge.org/)
-  - **AV-DRIVE**: [link](https://drive.grand-challenge.org/)
-  - **AV-DRIVE**: [link](https://drive.grand-challenge.org/)
+  - **AV-DRIVE**
+  - **HRF**
+  - **INSPIRE-AVR**
 - Liver vessel segmentation
-  - **IRCAD**: [link](https://drive.grand-challenge.org/)
+  - **IRCAD**
 
 ## Train 
 * python `main.py`
