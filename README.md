@@ -43,4 +43,3 @@ If you find this repository useful, please cite our paper:
   year={2022},
   publisher={Springer}
 }
-···
