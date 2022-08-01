@@ -1,4 +1,4 @@
-## Hierarchical Deep Network with Uncertainty aware Semi-supervised Learning for Vesse Segmentation (NCA 2021) ([Link](https://link.springer.com/article/10.1007/s00521-021-06578-3))
+# Hierarchical Deep Network with Uncertainty aware Semi-supervised Learning for Vesse Segmentation (NCA 2021) ([Link](https://link.springer.com/article/10.1007/s00521-021-06578-3))
 
 A Pytorch Implementation of ''Hierarchical Deep Network with Uncertainty aware Semi-supervised Learning for Vesse Segmentation'', which is accepted by the jounal of Neural Computing and Application.
 
