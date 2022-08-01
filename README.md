@@ -32,6 +32,17 @@ Please see more details in the paper
 ## Citation
 
 If you find this repository useful, please cite our paper:
+@article{li2022hierarchical,
+  title={Hierarchical deep network with uncertainty-aware semi-supervised learning for vessel segmentation},
+  author={Li, Chenxin and Ma, Wenao and Sun, Liyan and Ding, Xinghao and Huang, Yue and Wang, Guisheng and Yu, Yizhou},
+  journal={Neural Computing and Applications},
+  volume={34},
+  number={4},
+  pages={3151--3164},
+  year={2022},
+  publisher={Springer}
+}
+
 
 
 
