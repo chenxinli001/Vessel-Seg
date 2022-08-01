@@ -1,4 +1,4 @@
-## Hierarchical-Deep-Network-with-Uncertainty-aware-Semi-supervised-Learning-for-Vessel-Segmentation ([paper](https://link.springer.com/article/10.1007/s00521-021-06578-3))
+## Hierarchical Deep Network with Uncertainty aware Semi-supervised Learning for VesseL Segmentation ([Link](https://link.springer.com/article/10.1007/s00521-021-06578-3))
 
 
 ## Requirements
@@ -27,8 +27,11 @@
 | Lebre et al. |97.0| 97.0|98.0|
 | Ours|97.9| 98.9|99.7|
 
-See more details in the paper
+Please see more details in the paper
 
+## Citation
+
+If you find this repository useful, please cite our paper:
 
 
 
