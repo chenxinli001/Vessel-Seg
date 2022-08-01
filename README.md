@@ -44,7 +44,3 @@ If you find this repository useful, please cite our paper:
   publisher={Springer}
 }
 ···
-
-
-
-
