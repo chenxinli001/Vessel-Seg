@@ -21,7 +21,7 @@ A Pytorch Implementation of ''Hierarchical Deep Network with Uncertainty aware S
 * python `main.py`
 
 ## Evaualate on your own results
-* working, will be open soon...
+* Code is being organized and will be open soon.
 
 ## Results on semi-supervised setting of retinal A/V segmentation
 |  Methods  |  Acc   | Sp  | Sen|  F1|
